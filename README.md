@@ -1,6 +1,6 @@
 # AI-TicTacToe
 
-Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
+Using Minimax, implementing an AI to play Tic-Tac-Toe optimally.
 
 Execute runner.py to play the game against my AI.
 
